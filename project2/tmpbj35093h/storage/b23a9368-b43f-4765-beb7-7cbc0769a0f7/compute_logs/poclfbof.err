@@ -1,0 +1,7 @@
+[32m2023-03-19 04:29:00 -0500[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - b23a9368-b43f-4765-beb7-7cbc0769a0f7 - 28829 - LOGS_CAPTURED - Started capturing logs in process (pid: 28829).
+[32m2023-03-19 04:29:00 -0500[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - b23a9368-b43f-4765-beb7-7cbc0769a0f7 - 28829 - color - STEP_START - Started execution of step "color".
+[32m2023-03-19 04:29:00 -0500[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - b23a9368-b43f-4765-beb7-7cbc0769a0f7 - 28829 - color - STEP_OUTPUT - Yielded output "result" of type "DataFrame". (Type check passed).
+[32m2023-03-19 04:29:00 -0500[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - b23a9368-b43f-4765-beb7-7cbc0769a0f7 - color - Writing file at: /Users/gokulsudanagunta/Downloads/project-skeletons-main 2/project2/tmpbj35093h/storage/color
+[32m2023-03-19 04:29:00 -0500[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - b23a9368-b43f-4765-beb7-7cbc0769a0f7 - 28829 - color - ASSET_MATERIALIZATION - Materialized value color.
+[32m2023-03-19 04:29:00 -0500[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - b23a9368-b43f-4765-beb7-7cbc0769a0f7 - 28829 - color - HANDLED_OUTPUT - Handled output "result" using IO manager "io_manager"
+[32m2023-03-19 04:29:00 -0500[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - b23a9368-b43f-4765-beb7-7cbc0769a0f7 - 28829 - color - STEP_SUCCESS - Finished execution of step "color" in 34ms.

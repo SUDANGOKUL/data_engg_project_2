@@ -1,0 +1,23 @@
+   Manufacturer Prod. year  ...  Stock Price Change  Percentile
+0     CHEVROLET       2011  ...                -44%        -16%
+1     CHEVROLET       2012  ...                 20%          3%
+2     CHEVROLET       2013  ...                 46%          9%
+3     CHEVROLET       2014  ...                  0%         -3%
+4     CHEVROLET       2015  ...                  9%         11%
+5          FORD       2011  ...                -38%        -10%
+6          FORD       2012  ...                 14%         -3%
+7          FORD       2013  ...                 18%        -19%
+8          FORD       2014  ...                  3%          0%
+9          FORD       2015  ...                 -1%          1%
+10      HYUNDAI       2011  ...                -16%         12%
+11      HYUNDAI       2012  ...                  5%        -12%
+12      HYUNDAI       2013  ...                 83%         46%
+13      HYUNDAI       2014  ...                  3%          0%
+14      HYUNDAI       2015  ...                -19%        -17%
+15       TOYOTA       2011  ...                -19%         10%
+16       TOYOTA       2012  ...                 27%         10%
+17       TOYOTA       2013  ...                 28%         -9%
+18       TOYOTA       2014  ...                 11%          8%
+19       TOYOTA       2015  ...                 -3%         -1%
+
+[20 rows x 6 columns]
